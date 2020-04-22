@@ -7,6 +7,7 @@ This script also display numerical formula depends on [MathJax](https://www.math
 ### Prerequisites
 
 - Python3
+- [Markdown](https://github.com/Python-Markdown/markdown)(Python Package)
 - wkhtmltopdf
 
 ## How to use
