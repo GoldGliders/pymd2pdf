@@ -1,4 +1,4 @@
-#!/bin bash
+#!/usr/bin/zsh
 # The style is the github markdown.
 # https://github.com/sindresorhus/github-markdown-css
 
@@ -6,7 +6,7 @@
 src=`dirname $0`
 # stylesheet absolute path
 style=$src/style.css
-pycmd=$src/md2html.py
+pycmd=$src/pymd2html.py
 
 # get absolute path where this command executed
 relativedirpath="${1%/*}"
