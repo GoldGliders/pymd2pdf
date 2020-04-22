@@ -1,5 +1,5 @@
 # pymd2pdf
-Generate Markdown to PDF via HTML with CSS style
+Generate from Markdown to PDF via HTML with CSS.
 
 ## Getting Started
 Default stylesheet of this script is [github-markdown-css](https://github.com/sindresorhus/github-markdown-css).
