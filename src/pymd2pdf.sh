@@ -6,7 +6,8 @@
 src=`dirname $0`
 # stylesheet absolute path
 style=$src/style.css
-pycmd=$src/pymd2html.py
+pycmd=$src/md2html.py
+echo $src
 
 # get absolute path where this command executed
 relativedirpath="${1%/*}"
